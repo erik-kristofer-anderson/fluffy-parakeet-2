@@ -12,3 +12,8 @@ I used the following components in the following places
 2. form - on the Music page
 3. alerts - below the form on the music page
 
+Note: If you want to see the development history, 
+there is a repository with another name here: 
+https://github.com/erik-kristofer-anderson/scratchunit2  
+This is where the incremental commits are stored.
+
